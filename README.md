@@ -7,7 +7,7 @@ Este repositório contém a aplicação web desenvolvida para a prática da disc
 ## 👨‍🎓 Autor
 * **Aluno:** Pablo Nascimento (pablo.leite@alunos.ufersa.edu.br)
 * **Curso:** Engenharia de Computação — UFERSA (Pau dos Ferros-RN)
-* **Semestre:** 2026.1
+* **Semestre:** 2026.2
 
 ---
 
